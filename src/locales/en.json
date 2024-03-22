@@ -1,0 +1,15 @@
+{
+    "Home" :"Home",
+    "About":"About Us",
+    "Category":"Category",
+    "Save":"Save",
+    "ID":"ID",
+    "Name":"Name",
+  
+    "Action":"Action",
+    "Add category":"Add category",
+    "Login" : "Login",
+    "Logout":"Logout",
+    "Navbar":"Navbar",
+    "The name is required":"The name is required"
+   }
